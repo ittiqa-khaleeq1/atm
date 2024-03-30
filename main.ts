@@ -38,7 +38,7 @@ if (pinAnswer.pin === myPin) {
 			myBalance -= amountAns.amount;
 			// console.log("Your remaining balance is: " + myBalance);
 			console.log(`Your remaining balance is: ${myBalance}`);  //concatenation to template literals
-			//(line 40 and 41) commented coding as it is taught in ramadan coding night 5
+			//(line 42 and 43) commented coding as it is taught in ramadan coding night 5
 			// =, -=, +=
 			// myBalance -= amountAns.amount;
 		}
